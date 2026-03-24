@@ -117,10 +117,11 @@ This app uses the free [ipapi.co](https://ipapi.co) API.
 
 | Name | Role |
 |------|------|
-| [Name 1] | Scrum Leader |
-| [Name 2] | Recorder |
-| [Name 3] | Developer |
-| [Name 4] | Developer |
+| Kenrich Isaac R. Mendoza | Scrum Leader |
+| Renier B. Garcia | Recorder |
+| Ellis C. Alegre | Developer |
+| Dyron Carlo A. Gatchalian | Developer |
+| Ken Ralph O. Laforteza | Developer |
 
 ---
 
